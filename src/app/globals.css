@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Noto+Sans+Tagalog&display=swap');
 @import "tailwindcss";
 
 :root {
@@ -23,4 +24,41 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.nts {
+  font-family: 'Noto Sans Tagalog', sans-serif;
+}
+
+.circle-with-dot {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px; /* Adjust as needed */
+  height: 25px; /* Adjust as needed */
+  border-radius: 50%;
+  background-color: lightblue; /* Or any desired color */
+}
+
+.dot {
+  width: 7.5px; /* Adjust as needed */
+  height: 7.5px; /* Adjust as needed */
+  border-radius: 50%;
+  background-color: lightblue; /* Or any desired color */
+  z-index: 12;
+}
+
+.dot-back {
+  width: 10px; /* Adjust as needed */
+  height: 10px; /* Adjust as needed */
+  border-radius: 50%;
+  background-color: black; 
+}
+
+.modal::backdrop {
+  background: rgba(5, 0, 0, 0.79);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(5, 0, 0, 0.16);
+  -webkit-backdrop-filter: blur(10.7px);
+  backdrop-filter: blur(10.7px);
 }

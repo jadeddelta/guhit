@@ -1,0 +1,44 @@
+{
+    "posts": [
+        {
+            "title": "roots of the philippines",
+            "id": "austronesian-1",
+            "text": "While the Philippines have been settled for hundreds of thousands of years by many groups of Neolithic peoples, our story starts with the prehistory Austronesians: a very broad group of people that settled in Taiwan and the Penghu islands, before expanding outward into the north of Luzon. (King et al.) This was not a single event, but rather a very long, drawn out series of migrations that would happen as time progressed (Mijares), leading to what we assume could be a very homogenous linguistic demographic. While we don’t have any surviving written or oral records of Proto-Austronesian, using various methodologies such as reconstruction and shared cognates between sister languages, we might be able to piece together what could potentially have been spoken. All writing that you see below is completely hypothetical, and not an actual written script, rather it is meant to be pronounced using the IPA, international phonetic alphabet."
+        },
+        {
+            "title": "blossoming in luzon",
+            "id": "proto-philippine-1",
+            "text": "As time progressed, the people who lived in Northern Luzon began to have their language differentiate, initially into a subsection of Proto-Austronesian known as Proto-Malayo-Polynesian, before we see the first signs of the Filipino language’s ancestor: Proto-Philippine. As with all of these assumptions, of course, we are going off of limited data, but this appears to be a good starting off point for how the languages of the Philippines began to evolve (Blust). Similar to the previous post, though, this is merely a reconstruction of what could potentially have been spoken. All writing that you see below is completely hypothetical, and not an actual written script, rather it is meant to be pronounced using the IPA, international phonetic alphabet."
+        }, 
+        {
+            "title": "the first characters",
+            "id": "old-tagalog-1",
+            "text": "The indigenous peoples on the Philippine Archipelago began to develop their own writing systems, not unlike other civilizations. However, the initial genesis of the Philippine written language could actually find its roots in Old Malay, at least depending on the linguist you speak to. The oldest potential source of a written Philippine language comes from the Laguna Copperplate, dating back to 900 BCE. The plate speaks on, according to Antoon Postma, a legal certificate of acquittal of a debt, perhaps incurred by a person in high office (163). While the contents of the plate itself are quite interesting, what’s even more applicable to our journey is the nature of what is written inside, and where it was found. Most people, after all, agree that the plate is primarily written in Old Malay, but there are specific words that would only appear in Old Tagalog, such as pamagat, which nowadays means the title of a book, but back then, also meant the title of a person as well (165). It is also interesting to note that place names that are found in the Laguna Copperplate contain various place names in the Philippines, and was originally found in Laguna de Bay or the Bulacan Province (166)."
+        },
+        {
+            "title": "a new script, a new leader",
+            "id": "old-tagalog-2",
+            "text": "Baybayin is an abugida, a writing system that is utilized in consonant-vowel pairings, easily contained in a grid where a consonant will be written differently based on the vowel transcribed. As with most early history, sources differ greatly, but it is suggested that Catalangan Pot, a burial jar found in the Batangas region, could very well have been the first instance of Baybayin written down, though not through basic Tagalog but rather a Visayan language instead (Guillermo). Of course, the usage of Baybayin would change very drastically in the coming centuries. For in 1521, the Spanish had set foot in the Philippine Archipelago, with the intention of conquering the land. The Spaniards would use a two-pronged methodology of colonization: with military subjugation at the forefront of it all, allying with indigenous people groups and using them against each other in order to assert control. In the background though, led a “conquista pacifica”, a peaceful conquest which used a very select few group of missionaries, who, as we’ll see, will try to observe and change the language of Tagalog with the growing forces of occupation (Heller 36)."
+        },
+        {
+            "title": "what made tagalog special",
+            "id": "tagalog-1",
+            "text": ""
+        },
+        {
+            "title": "arrival of the americans",
+            "id": "tagalog-2",
+            "text": ""
+        },
+        {
+            "title": "identity and language",
+            "id": "filipino-1",
+            "text": "While the Americans pulled out of the Philippines in 1946 via the treaty of Manila, various English words had embedded themselves into the language within the 48 year period of American colonialism, stretching even past that date as the two countries have continued to see very amiable relationships with one another. And yet, with the destiny of the Philippine nation now in its peoples’ hands, or rather of the upper class, the language and the identity of what it meant to be Tagalog or Filipino rapidly changed. Especially within the context of English and its growing dominance as a lingua franca of the world, we can begin to see the effects not only on the language, but also how it connects to the identities of the upper class as the ones who have had access to the Americanized English school systems in the first place (Reyes 212). This would be the advent of Taglish, and while it has been adopted by many members from the younger generation to the LGBTQ population, a specific subset known as the “Conyo” really takes this idea to the maximum, showing an identity of excessiveness and modernity with the growing integration of the English language within Tagalog, very unlike other groups within the Philippines that use this (217)."
+        },
+        {
+            "title": "where are we at?",
+            "id": "filipino-2",
+            "text": "Nowadays, the Filipino language acts as the lingua franca of the Philippines, spoken by many and used within the courts and the government, the press and the dramas, but with plenty of strong regional languages that show a quite resilient bit of linguistic diversity. There is a fascinating exhibit in Manila's National Museum of Natural History which would perfectly complement the project (and right next door is the National Museum of Anthropology, which contains the Laguna Copperplate inscription itself!) It is a massive tree, with wooden carvings acting as leaves that hang from the ceiling, that you can run through. I saw the kids play through them mostly but if you stop and look, it feels like every single regional language is documented there, from my mother’s tongue of Kapampangan, to the isolated languages in the Visayas, to the strongholds of the Maguindanao language still written occasionally in Jawi. While our story covers the national language of the Philippines, the Archipelago is still vast and contains infinitely more stories to tell than this one. Salamaat po."
+        }
+    ]
+}
