@@ -36,11 +36,11 @@ export default function IntroModal() {
                 <p>it will most likely work on chrome, and on safari with some styles broken.</p>
                 <p>it will not work on mobile.</p>
                 <br />
-                <p>to join us on this journey of tagalog, scroll down as you'll be taken through time</p>
+                <p>to join us on this journey of tagalog, scroll down as you&apos;ll be taken through time</p>
                 <p>click on any buttons that pop up to learn more about the language at the time</p>
                 <p>and watch on the bottom of your screen as the language evolves with you</p>
                 <br />
-                <p>when you're ready, hit the X in the top right, or press escape</p>
+                <p>when you&apos;re ready, hit the X in the top right, or press escape</p>
                 <br />
                 {!menuOpen && (
                     <button

@@ -1,9 +1,7 @@
 "use client";
 
-import { motion, useScroll, useTransform, cubicBezier } from "motion/react";
-import Image from "next/image";
+import { motion, useScroll, useTransform } from "motion/react";
 import { useEffect } from "react";
-import Modal from "./_components/modal";
 import IntroModal from "./_components/introModal";
 import TopicRegion from "./_components/topicRegion";
 import { posts } from "./_data/posts.json"
@@ -25,15 +23,6 @@ export default function Playground() {
             unsubscribeY()
         };
     }, [scrollYProgress, scrollY]);
-
-    const x = (progress: number) => {
-        return progress * 2;
-    }
-
-    const y = (progress: number) => {
-        return progress * 3;
-    }
-
 
     return (
         <div className="flex flex-col mt-[10vh]">
